@@ -1,62 +1,41 @@
+ # Olá, eu sou o Adonis! 👋
+## Analista de Dados | Cientista de Dados em Formação
 
-### Analista de Dados | Cientista de Dados
-
-Transformando dados brutos em insights acionáveis através de análise, visualização e processos ETL
-
----
-
-## 📊 Sobre Mim
-
-Sou um profissional apaixonado por dados, com experiência em análise de dados, criação de dashboards e implementação de processos ETL para otimizar a tomada de decisões empresariais.
-
-- 📈 **Análise de Dados** com Python e SQL
-- 📊 **Visualização de Dados** com Power BI e Tableau
-- 🔄 **Processos ETL** para integração e transformação de dados
-- 🗄️ **Modelagem e Gestão** de bancos de dados relacionais
+> "Transformando dados brutos em insights acionáveis através de estatística e tecnologia."
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 👨‍💻 Sobre Mim
 
-### **Linguagens & Bancos de Dados**
-- **Python** (Pandas, NumPy, Matplotlib, Scikit-learn)
-- **MySQL** (Consultas, Otimização, Modelagem)
-- **ETL** (Extração, Transformação e Carga)
+Sou um **Analista de Dados Junior** apaixonado por descobrir padrões. Tenho 38 anos, sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente estou aprofundando meus conhecimentos matemáticos na graduação de **Estatística**.
 
-### **Visualização de Dados**
-- **Power BI** (Dashboards, DAX, Power Query)
-- **Tableau** (Visualizações interativas, Storytelling)
-- **Excel** (Fórmulas avançadas, Tabelas dinâmicas, Gráficos)
+Meu foco é unir a lógica de programação com a precisão estatística para resolver problemas de negócios.
 
-### **Controle de Versão & Ferramentas**
-- **GitHub** (Versionamento, Colaboração, Repositórios)
-- **Git** (Controle de versão distribuído)
+* 🔭 Atualmente trabalhando em: Projetos de análise financeira e automação.
+* 📚 Estudando: Estatística avançada e Machine Learning.
+* 🎯 Objetivo: Atuar como Cientista de Dados Sênior.
 
 ---
 
-## 📈 Projetos Destacados
+### 🛠️ Conjunto de Tecnologias
 
-[![Repositório em Destaque](https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=seu-repositorio&theme=default)](https://github.com/seu-usuario/seu-repositorio)
+**Linguagens e Análise**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-*Substitua pelo link do seu projeto principal*
+**Ferramentas e Visualização**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📞 Contato & Redes
-
-- **GitHub:** [github.com/AdonisPantoja](https://github.com/AdonisPantoja)
-- **LinkedIn:** [linkedin.com/in/adonis-pantoja](www.linkedin.com/in/adonis-pantoja-232662239)
-- **Portfólio:** [adonispantoja.com](https://adonispantoja.com) * (adicione seu link)*
-- **E-mail:** [contato@adonispantoja.com](adonisruis07@gmail.com)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AdonisPantoja&show_icons=true&theme=default)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AdonisPantoja&layout=compact&theme=default)
+**Banco de Dados & Nuvem**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-✨ *"Os dados não são apenas números, são histórias esperando para serem contadas."*
+### 📬 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
