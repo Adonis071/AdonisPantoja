@@ -45,9 +45,9 @@ Sou um profissional apaixonado por dados, com experiência em análise de dados,
 ## 📞 Contato & Redes
 
 - **GitHub:** [github.com/AdonisPantoja](https://github.com/AdonisPantoja)
-- **LinkedIn:** [linkedin.com/in/adonis-pantoja](https://linkedin.com/in/adonis-pantoja)
+- **LinkedIn:** [linkedin.com/in/adonis-pantoja](www.linkedin.com/in/adonis-pantoja-232662239)
 - **Portfólio:** [adonispantoja.com](https://adonispantoja.com) * (adicione seu link)*
-- **E-mail:** [contato@adonispantoja.com](mailto:contato@adonispantoja.com)
+- **E-mail:** [contato@adonispantoja.com](adonisruis07@gmail.com)
 
 ---
 
