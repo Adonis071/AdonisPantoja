@@ -1,4 +1,3 @@
-```markdown
 # Olá, eu sou o Adonis! 👋
 ## Desenvolvedor Fullstack | Empreendedor Digital
 
@@ -99,7 +98,7 @@ Meu foco é unir front-end e back-end para criar aplicações completas — de S
 
 
 
-![Lovable](https://img.shields.io/badge/Lovable-black?style=for-the-badge&logo=lovable&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-black?style=for-the-badge)
 
 
 
@@ -127,4 +126,3 @@ Meu foco é unir front-end e back-end para criar aplicações completas — de S
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ](https://wa.me/qr/6PSF4B2Y2F42B1)
-```
