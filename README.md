@@ -1,4 +1,4 @@
-# Olá, eu sou o Adonis! 👋
+Olá, eu sou o Adonis! 👋
 ## Analista de Dados | Cientista de Dados em Formação
 
 > "Transformando dados brutos em insights acionáveis através de estatística e tecnologia."
